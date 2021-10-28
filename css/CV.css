@@ -1,0 +1,315 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;     /*----16/10*100-----*/
+}
+.full-wrapper{
+    width: 100%;  
+}
+.wrapper{
+    width: 114rem;
+    margin: 0 auto; 
+}
+.fix{
+    overflow: hidden;
+}
+.text-1 .head{
+    float: left; 
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    margin-top: 8.8rem;
+    margin-left: 39rem;  
+    text-align: center; 
+    line-height: 1.5;
+}
+.text-1 .head h1{
+    font-size: 3.2rem;
+}
+.text-1 .head h4{
+    font-size: 1.9rem;
+    line-height: 1.3;
+}
+.text-1 .img img{
+    width: 17rem;
+    float: right;
+    margin-top: 7rem;
+    margin-right: 1.5rem;
+    margin-bottom: 1rem;
+}
+.text-2{
+    margin-top: 1.5rem;
+}
+.text-2 h2{
+    border: .2rem solid #2d2d2d;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5rem;
+    color: #2d2a2d;
+    padding: .1rem 1.5rem;
+    border-radius: .5rem;    
+}
+.text-2 p{
+    margin-top: .8rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.2rem;   
+}
+.text-3{
+    margin-top: 1.5rem;
+}
+.text-3 h2{
+    border: .2rem solid #2d2d2d;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5rem;
+    color: #2d2a2d;
+    padding: .1rem 1.5rem;
+    border-radius: .5rem;    
+}
+.text-3 h3{
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.3rem;
+    margin-top: .7rem;
+}
+.text-3 .p1{
+    width: 60rem;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left;
+}
+.text-3 .p2{
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left;  
+}
+.text-4 h3{
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.3rem;
+    margin-top: .7rem;
+}
+.text-4 .p1{
+    width: 60rem;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left;
+}
+.text-4 .p2{
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left;  
+}
+.text-5 h3{
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.3rem;
+    margin-top: .7rem;
+}
+
+.text-5 .p1{
+    width: 60rem;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left;
+}
+.text-5 .p2{
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left;  
+}
+.text-6{
+    margin-top: 1.5rem;
+}
+.text-6 h2{
+    border: .2rem solid #2d2d2d;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5rem;
+    color: #2d2a2d;
+    padding: .1rem 1.5rem;
+    border-radius: .5rem;  
+}
+
+.text-6 p{
+    margin-top: .8rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.2rem;   
+}
+.text-7{
+    margin-top: 1.5rem;
+}
+.text-7 h2{
+    border: .2rem solid #2d2d2d;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5rem;
+    color: #2d2a2d;
+    padding: .1rem 1.5rem;
+    border-radius: .5rem;    
+}
+.text-7 p{
+    margin-top: .8rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.2rem;   
+}
+.text-8{
+    margin-top: 1.5rem; 
+}
+.text-8 h2{
+    border: .2rem solid #2d2d2d;
+    border-radius: .5rem;
+    padding: .1rem 1.5rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.3rem;
+    margin-top: .7rem;
+    width: 20.1rem;   
+}
+.text-8 .p1{
+    width: 60rem;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left;       
+}
+.text-8 .p2{
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left; 
+}
+.text-9{
+    margin-top: 1.5rem; 
+}
+.text-9 h2{
+    border: .2rem solid #2d2d2d;
+    border-radius: .5rem;
+    padding: .1rem 1.5rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.3rem;
+    margin-top: .7rem;
+    width: 20.1rem;   
+}
+.text-9 p{
+    margin-top: .8rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.2rem;   
+}
+.text-9 ul{
+    margin-left: 8.5rem;
+    margin-top: 1rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2rem; 
+}
+.text-10{
+    margin-top: 2rem; 
+}
+.text-10 h2{
+    border: .2rem solid #2d2d2d;
+    border-radius: .5rem;
+    padding: .1rem 1.5rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.3rem;
+    margin-top: .7rem;
+    width: 20.1rem;   
+}
+.text-10 ul{
+    margin-left: 8.5rem;
+    margin-top: 1rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2rem; 
+}
+.text-11{
+    margin-top: 2rem; 
+    margin-bottom: 6rem;
+}
+.text-11 h2{
+    border: .2rem solid #2d2d2d;
+    border-radius: .5rem;
+    padding: .1rem 1.5rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.3rem;
+    margin-top: .7rem;
+    width: 20.1rem;   
+}
+.text-11 ul{
+    margin-left: 8.5rem;
+    margin-top: 1rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2rem; 
+}
+.text-12{
+   margin-bottom: 3rem;
+}
+.text-12 h2{
+    width: 22rem;
+    border: .2rem solid #2d2d2d;
+    border-radius: .5rem;
+    padding: .1rem 1.5rem;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.3rem;
+    margin-top: .7rem;
+}
+.text-12 .p1{
+    width: 60rem;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left; 
+    margin-top: 1rem;     
+}
+.text-12 .p2{
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left;   
+}
+.text-13{
+    margin-top: 10rem;
+}
+.text-13 .p1{
+    width: 60rem;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left; 
+    margin-bottom: 8rem;    
+}
+.text-13 .p2{
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    color: #2d2a2d;
+    font-size: 2.1rem;
+    float: left;  
+    margin-left: 10rem; 
+}
